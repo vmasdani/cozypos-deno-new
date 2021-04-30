@@ -1,0 +1,5 @@
+cozypos-full
+.env
+newmodel.d.ts-*
+cozypos.sqlite3
+release
